@@ -9,5 +9,6 @@ public class Add {
         int b = 20;
         int sum = a +b;
         System.out.println(sum);
+        System.out.println("做出第一次修改");
     }
 }
